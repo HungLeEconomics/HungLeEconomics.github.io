@@ -24,7 +24,7 @@ We study how regulation can facilitate tacit collusion through focal pricing in 
 **Competition or Collusion? Entry Decisions in the Swedish Pharmaceutical Market** *with [Otto Toivanen](https://aalto-econ.fi/toivanen/)*
 <details>
   <summary>Show Abstract</summary>
-Observing different firms having a monopoly position in parts of a market may be the result of either intense post-entry competition and non-cooperative entry decisions, or collusive entry. This phenomenon and large price differences per pill are wide-spread in the Swedish pharmaceutical market where monthly auctions for each active ingredient-dosage form-strength-package size combination channel a large part of demand to the winner. 22% of the markets are potentially collusive at least some of the time and prices in such markets are significantly higher per pill. We take a structural model tailored to the Swedish circumstances to data on two markets. In one market, the entry patterns (monopoly package sizes) are suggestive of collusion, but not in the other. Our counterfactual analyses where we either remove monopoly package sizes or allow substitution across package sizes yield savings of 50-60% in both markets, with very small if any effects on demand. 
+Observing different firms having a monopoly position in parts of a market may be the result of either intense post-entry competition and non-cooperative entry decisions, or collusive entry. This phenomenon and large price differences per pill within a market are wide-spread in the Swedish pharmaceutical market where monthly auctions for each active ingredient--dosage form--strength--package size combination channel a large part of demand to the winner within each such substitution group. 22% of the markets are potentially collusive in having two firms as monopolies for different substitution groups at least some of the time and prices per pill in such markets are be significantly higher per pill. We take a structural model tailored to the Swedish circumstances to data on two markets. In one market, the entry patterns (monopoly package sizes) are suggestive of collusion, but not in the other. Our counterfactual analysis where we induce substitution across package sizes yield savings of >50% in one market, but lead to a modest expenditure increase in the other.
 </details>
 <br>
 
@@ -46,3 +46,6 @@ I study conditions for the existence and uniqueness of equilibrium in a logit mo
 - Intermediate Macroeconomics II, B.Sc. level: Mar 2023, Mar 2024, Mar 2025
 
 - Mathematics for Economists, B.Sc. level: Oct 2021
+
+## Conference Presentations
+2026: NORIO (Copenhagen), CEPR Health (Toulouse), CRESSE (Kos), EARIE (Mannheim)
