@@ -24,8 +24,9 @@ We study how regulation can facilitate tacit collusion through focal pricing in 
 **Competition or Collusion? Entry Decisions in the Swedish Pharmaceutical Market** *with [Otto Toivanen](https://aalto-econ.fi/toivanen/)*
 <details>
   <summary>Show Abstract</summary>
-Observing different firms having a monopoly position in parts of a market may be the result of either intense post-entry competition and non-cooperative entry decisions, or collusive entry. This phenomenon and large price differences per pill within a market are wide-spread in the Swedish pharmaceutical market where monthly auctions for each active ingredient--dosage form--strength--package size combination channel a large part of demand to the winner within each such substitution group. 22% of the markets are potentially collusive in having two firms as monopolies for different substitution groups at least some of the time and prices per pill in such markets are be significantly higher per pill. We take a structural model tailored to the Swedish circumstances to data on two markets. In one market, the entry patterns (monopoly package sizes) are suggestive of collusion, but not in the other. Our counterfactual analysis where we induce substitution across package sizes yield savings of >50% in one market, but lead to a modest expenditure increase in the other.
+Price regulation may have unintended consequences, such as facilitating collusion or softening actual price competition by causing a reduction in the number of active firms. Observing different firms having a monopoly position in parts of a market may be the result of either intense post-entry competition and non-cooperative entry decisions, or collusive entry. This phenomenon and large price differences per pill within a market are widespread in the Swedish generic pharmaceutical market where price regulation through monthly auctions for each active ingredient–dosage form–strength–package size combination channels a large part of demand to the winner within each such substitution group. 22% of the markets are potentially collusive in having at least two firms as monopolies for different substitution groups at least some of the time and prices per pill in such markets are on average significantly higher. We take a structural model tailored to the Swedish circumstances to data on two markets. In one market, the entry patterns (monopoly package sizes) are suggestive of actual, in the other of attempted, collusion. Our counterfactual analysis where we induce substitution across package sizes yield savings of >50% in the first market, but lead to a modest expenditure increase in the other because intensified post-entry competition induces exit.
 </details>
+[📄 PDF](https://hungleeconomics.github.io/files/Le_Toivanen_CEPRDP21676.pdf)
 <br>
 
 **A Stylized Logit Demand Model with Internal Reference Pricing**
@@ -48,4 +49,4 @@ I study conditions for the existence and uniqueness of equilibrium in a logit mo
 - Mathematics for Economists, B.Sc. level: Oct 2021
 
 ## Conference Presentations
-2026: NORIO (Copenhagen), CEPR Health (Toulouse), CRESSE (Kos), EARIE (Mannheim)
+2026: NORIO (Copenhagen), CEPR Health Economics (Toulouse), CRESSE (Kos), EARIE (Mannheim)
