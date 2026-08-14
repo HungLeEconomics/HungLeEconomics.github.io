@@ -12,10 +12,11 @@ I am a PhD student in Economics at Aalto University. My research is in industria
 **I will be on the 2026/2027 job market.**
 
 ## Job market paper
-**Focal Points and Tacit Collusion in the Finnish Pharmaceutical Market** *with Matias Pousi*
+**Focal Points and Reference Prices in the Finnish Pharmaceutical Market** *with Matias Pousi*
 <details>
   <summary>Show Abstract</summary>
-We study how regulation can facilitate tacit collusion through focal pricing in the Finnish pharmaceutical market. Under the reference pricing system, firms repeatedly set prices relative to a publicly observed benchmark, creating a natural focal point for coordination. Using detailed product-level data, we document systematic price increases equal to the size of the regulated price band and show that many firms align their prices with the previous quarter’s reference price. To rationalize these patterns, we develop a structural model of competition between generic firms and a potential parallel import entrant. In the model, incumbent firms choose whether to increase prices or maintain current prices, while a parallel importer decides whether to enter given prevailing price levels. Estimation results indicate that higher prices increase the likelihood of entry, which in turn disciplines collusive behavior. Counterfactual analysis shows that reducing the price band from 0.5 to 0.1 euros substantially increases entry probabilities, while a larger price band of 1.5 euros facilitates greater coordination. Our findings highlight a novel channel through which regulation may unintentionally promote coordinated outcomes by creating focal pricing rules.
+We study how reference price regulations work in the Finnish pharmaceutical market. Using
+product-level data, we document systematic price increases equal to the width of the regulated price band and show that many firms align their bids with the previous quarter’s reference price in the quarterly price auction. When all firms in a market submit price bids at this focal point, the reference price shifts upward, benefiting firms at the expense of patients. Six firms exhibit this pricing pattern particularly frequently: Actavis, Sandoz, Hexal, Ratiopharm, Orion, and Teva. We investigate these findings using a combination of descriptive evidence, reduced-form analysis, and structural modeling.
 </details>
 <br>
 
@@ -48,5 +49,5 @@ I study conditions for the existence and uniqueness of equilibrium in a logit mo
 
 - Mathematics for Economists, B.Sc. level: Oct 2021
 
-## Conference Presentations
-2026: NORIO (Copenhagen), CEPR Health Economics (Toulouse), CRESSE (Kos), EARIE (Mannheim)
+## Seminar & Conference Presentations
+2026: NORIO (Copenhagen), CEPR Health Economics (Toulouse), CRESSE (Kos), EARIE (Mannheim), Finnish Competition and Consumer Authority (Helsinki), European Commission DG-Comp (Brussels)
