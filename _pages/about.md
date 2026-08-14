@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ I am a PhD student in Economics at Aalto University and [Helsinki GSE](https://w
 
 **I will be on the 2026/2027 job market.**
 
-## Job market paper
+## Job Market Paper
 **Focal Points and Reference Prices in the Finnish Pharmaceutical Market** *with Matias Pousi*
 <details>
   <summary>Show Abstract</summary>
@@ -21,7 +21,7 @@ product-level data, we document systematic price increases equal to the width of
 <br>
 
 
-## Working papers
+## Working Papers
 **[Competition or Collusion? Entry Decisions in the Swedish Pharmaceutical Market](https://hungleeconomics.github.io/files/Le_Toivanen_CEPRDP21676-1.pdf)** *with [Otto Toivanen](https://aalto-econ.fi/toivanen/)*, CEPR Discussion Paper DP21676 
 <details>
   <summary>Show Abstract</summary>
