@@ -27,7 +27,7 @@ product-level data, we document systematic price increases equal to the width of
   <summary>Show Abstract</summary>
 Price regulation may have unintended consequences, such as facilitating collusion or softening actual price competition by causing a reduction in the number of active firms. Observing different firms having a monopoly position in parts of a market may be the result of either intense post-entry competition and non-cooperative entry decisions, or collusive entry. This phenomenon and large price differences per pill within a market are widespread in the Swedish generic pharmaceutical market where price regulation through monthly auctions for each active ingredient–dosage form–strength–package size combination channels a large part of demand to the winner within each such substitution group. 22% of the markets are potentially collusive in having at least two firms as monopolies for different substitution groups at least some of the time and prices per pill in such markets are on average significantly higher. We take a structural model tailored to the Swedish circumstances to data on two markets. In one market, the entry patterns (monopoly package sizes) are suggestive of actual, in the other of attempted, collusion. Our counterfactual analysis where we induce substitution across package sizes yield savings of >50% in the first market, but lead to a modest expenditure increase in the other because intensified post-entry competition induces exit.
 </details>
-[📄 PDF](https://hungleeconomics.github.io/files/Le_Toivanen_CEPRDP21676-1.pdf)
+[📄 Paper](https://hungleeconomics.github.io/files/Le_Toivanen_CEPRDP21676-1.pdf)
 <br>
 
 **A Stylized Logit Demand Model with Internal Reference Pricing**
