@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at Aalto University and [Helsinki GSE](https://www.helsinkigse.fi/), and a member of the Helsinki GSE [IO Group](https://www.helsinkigse.fi/groups/industrial-organization). My research is in industrial organization, with a focus on collusion and pharmaceutical markets. 
+I am a PhD student in Economics at Aalto University, [Helsinki GSE](https://www.helsinkigse.fi/), and a member of the Helsinki GSE [IO Group](https://www.helsinkigse.fi/groups/industrial-organization). My research is in industrial organization, with a focus on collusion and pharmaceutical markets. 
 
 **I will be on the 2026/2027 job market.**
 
