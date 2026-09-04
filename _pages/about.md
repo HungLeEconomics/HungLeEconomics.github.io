@@ -12,11 +12,10 @@ I am a PhD candidate in Economics at Aalto University and [Helsinki GSE](https:/
 **I will be on the 2026–27 academic job market.**
 
 ## Job Market Paper
-**Focal Points and Reference Prices in the Finnish Pharmaceutical Market** *with Matias Pousi*
+**Focal Points and Reference Pricing in the Finnish Pharmaceutical Market** *with Matias Pousi*
 <details>
   <summary>Show Abstract</summary>
-We study how reference price regulations work in the Finnish pharmaceutical market. Using
-product-level data, we document systematic price increases equal to the width of the regulated price band and show that many firms align their bids with the previous quarter’s reference price in the quarterly price auction. When all firms in a market submit price bids at this focal point, the reference price shifts upward, benefiting firms at the expense of patients. Six firms exhibit this pricing pattern particularly frequently: Actavis, Sandoz, Hexal, Ratiopharm, Orion, and Teva. We investigate these findings using a combination of descriptive evidence, reduced-form analysis, and structural modeling.
+We study how reference pricing regulation shapes pharmaceutical pricing in Finland. Using product-level data, we document systematic increases in reference prices equal to the size of the regulated price band and show that many firms submit bids equal to the previous quarter’s reference price in quarterly price auctions. When all firms in a market follow this focal-pricing rule, the reference price increases mechanically by the size of the price band. This behavior is particularly common among six large generic pharmaceutical firms. We investigate these patterns using descriptive evidence, reduced-form analysis, and structural modeling. During non-auction periods, when the reference price is fixed for the remainder of the quarter, we find that it acts as a binding constraint for a substantial share of products priced at the reference price, indicating that the regulation can effectively limit prices. In contrast, during the auctions at the beginning of each quarter, the previous reference price serves as a focal point that can facilitate upward movements in the reference price. Counterfactual simulations show that introducing the €0.50 price band in 2009 rather than in 2017 would have reduced monthly pharmaceutical expenditure by up to €10 million, while reducing the band further to €0.10 in 2017 would have generated additional savings of up to €1.5 million per month.
 </details>
 <br>
 
