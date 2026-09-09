@@ -1,10 +1,4 @@
----
-permalink: /teaching/
-title: "TA Evaluations"
-author_profile: true
-redirect_from: 
-  - /teaching/
-  - /teaching.html
+
 ---
 **Math Camp, Ph.D. level**
 4.63/5
