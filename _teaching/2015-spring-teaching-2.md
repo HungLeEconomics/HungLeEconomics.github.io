@@ -1,15 +1,17 @@
 ---
-title: "Principles of Economics 2025"
+title: "Principles of Economics"
 collection: teaching
 type: "B.Sc. level"
 permalink: /teaching/2015-spring-teaching-1
-#venue: "Aalto University"
-#date: "Oct 2024, Oct 2025"
+venue: "Aalto University"
+date: "2025"
 #location: "City, Country"
 ---
 
 4.67/5
+
 Summary:
+
 -	Hung is a good teacher. He breaks the steps down, makes it easier to understand. There is a lot to cover for each session so maybe there could be more sessions.
 -	You explained everything clearly and well! The sessions were really helpful.
 -	Very good explanations. I would appreciate if you could slow down a bit when explaining, I’m a little slow and need more time understanding things.
@@ -22,4 +24,4 @@ Summary:
 -	It was really useful to go through the quizzes together!
 -	I felt like the coursework was not very related to the quizzes, only the exam.
 
-[📄 TA Evaluations](https://hungleeconomics.github.io/files/Principles_2025_TA_evaluations.pdf)
+- [📄 TA Evaluations](https://hungleeconomics.github.io/files/Principles_2025_TA_evaluations.pdf)
