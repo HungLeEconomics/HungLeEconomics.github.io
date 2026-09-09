@@ -38,7 +38,7 @@ I study conditions for the existence and uniqueness of equilibrium in a logit mo
 <br>
 
 
-## Teaching Assistant
+## Teaching Assistant ([Evaluations](/teaching/))
 - Math Camp, Ph.D. level: Aug 2024, Aug 2025
 
 - Empirical Industrial Organization, M.Sc. level: Oct 2024, Oct 2025
