@@ -27,7 +27,6 @@ Summary:
 -	Very good!
 -	Thanks for the course!
 -	Math Camp has been great! Maybe solutions to old problem sets could be nice.
--	Very good!
 -	Overall good! Some things could be explained more but other people maybe know more.
 -	Maybe more time for solving the problem sets or a time allotment for lunch
 
