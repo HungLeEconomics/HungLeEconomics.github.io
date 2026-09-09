@@ -1,11 +1,11 @@
 ---
-title: "Math Camp"
+title: "Math Camp 2025"
 collection: teaching
 type: "Ph.D. level"
 permalink: /teaching/2014-spring-teaching-1
-#venue: "Aalto University"
-#date: "2025"
-#location: "City, Country"
+venue: "Aalto University"
+date: "August 2025"
+location: "Finland"
 ---
 
 4.63/5
@@ -30,4 +30,4 @@ Summary:
 -	Overall good! Some things could be explained more but other people maybe know more.
 -	Maybe more time for solving the problem sets or a time allotment for lunch
 
-- [📄 TA Evaluations](https://hungleeconomics.github.io/files/Math_Camp_2025_TA_evaluations.pdf)
+[📄 TA Evaluations](https://hungleeconomics.github.io/files/Math_Camp_2025_TA_evaluations.pdf)

@@ -1,11 +1,11 @@
 ---
-title: "Principles of Economics"
+title: "Principles of Economics 2025"
 collection: teaching
 type: "B.Sc. level"
 permalink: /teaching/2015-spring-teaching-1
-#venue: "Aalto University"
-#date: "2025"
-#location: "City, Country"
+venue: "Aalto University"
+date: "Septempber 2025"
+location: "Finland"
 ---
 
 4.67/5
@@ -24,4 +24,4 @@ Summary:
 -	It was really useful to go through the quizzes together!
 -	I felt like the coursework was not very related to the quizzes, only the exam.
 
-- [📄 TA Evaluations](https://hungleeconomics.github.io/files/Principles_2025_TA_evaluations.pdf)
+[📄 TA Evaluations](https://hungleeconomics.github.io/files/Principles_2025_TA_evaluations.pdf)
