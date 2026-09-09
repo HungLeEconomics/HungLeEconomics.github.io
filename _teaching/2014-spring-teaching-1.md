@@ -3,8 +3,8 @@ title: "Math Camp"
 collection: teaching
 type: "Ph.D. level"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Aalto University"
-date: "2025"
+#venue: "Aalto University"
+#date: "2025"
 #location: "City, Country"
 ---
 

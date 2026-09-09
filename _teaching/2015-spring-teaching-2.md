@@ -3,8 +3,8 @@ title: "Principles of Economics"
 collection: teaching
 type: "B.Sc. level"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Aalto University"
-date: "2025"
+#venue: "Aalto University"
+#date: "2025"
 #location: "City, Country"
 ---
 
