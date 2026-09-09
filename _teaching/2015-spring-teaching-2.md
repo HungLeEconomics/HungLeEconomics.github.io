@@ -4,7 +4,7 @@ collection: teaching
 type: "B.Sc. level"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Aalto University"
-date: "Septempber 2025"
+date: 2025-09-01
 location: "Finland"
 ---
 
