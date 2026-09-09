@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate in Economics at Aalto University and [Helsinki GSE](https://www.helsinkigse.fi/). I am also a member of the Helsinki GSE [IO Group](https://www.helsinkigse.fi/groups/industrial-organization). My research focuses on industrial organization, with particular interests in collusion, regulation, and pharmaceutical markets.
 
-**I will be on the 2026–27 academic job market.**
+**I am on the 2026–27 academic job market.**
 
 ## Job Market Paper
 **Focal Points and Reference Pricing in the Finnish Pharmaceutical Market** *with Matias Pousi*
@@ -50,4 +50,4 @@ I study conditions for the existence and uniqueness of equilibrium in a logit mo
 - Mathematics for Economists, B.Sc. level: Oct 2021
 
 ## Seminar & Conference Presentations
-2026: NORIO (Copenhagen), CEPR Health Economics (Toulouse), CRESSE (Kos), EARIE (Mannheim), Finnish Competition and Consumer Authority (Helsinki), European Commission DG-Comp (Brussels)
+2026: NORIO (Copenhagen), CEPR Health Economics (Toulouse), CRESSE (Kos), EARIE (Mannheim), Finnish Competition and Consumer Authority (Helsinki), European Commission DG-Comp (Brussels), Swedish Competition and Consumer Authority (upcoming, online)
