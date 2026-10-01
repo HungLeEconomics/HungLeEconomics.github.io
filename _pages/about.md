@@ -50,4 +50,10 @@ I study conditions for the existence and uniqueness of equilibrium in a logit mo
 - Mathematics for Economists, B.Sc. level: Oct 2021
 
 ## Seminar & Conference Presentations
-2026: NORIO (Copenhagen), CEPR Health Economics (Toulouse), CRESSE (Kos), EARIE (Mannheim), Finnish Competition and Consumer Authority (Helsinki, invited), European Commission DG-Comp (Brussels, invited), Swedish Competition and Consumer Authority (upcoming, invited)
+**Focal Points and Reference Pricing in the Finnish Pharmaceutical Market (Job Market Paper)**
+
+European Commission DG-Comp (Brussels, 2026, invited), Finnish Competition and Consumer Authority (online, 2026, invited), NORIO (Copenhagen, 2026)
+
+**Competition or Collusion? Entry Decisions in the Swedish Pharmaceutical Market**
+
+European Commission DG-Comp (Brussels, 2026, invited), CEPR Health Economics (Toulouse, 2026), EARIE (Mannheim, 2026), CRESSE (Kos, 2026), Swedish Competition and Consumer Authority (online, 2026, invited)
