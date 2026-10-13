@@ -12,10 +12,10 @@ I am a PhD candidate in Economics at Aalto University and [Helsinki GSE](https:/
 **I am on the 2026–27 job market.**
 
 ## Job Market Paper
-**Focal Points and Reference Pricing in the Finnish Pharmaceutical Market** *with Matias Pousi*
+**Reference Pricing as a Focal Point: Evidence from the Finnish Pharmaceutical Market** *with Matias Pousi*
 <details>
   <summary>Show Abstract</summary>
-We study how reference pricing regulation shapes pharmaceutical pricing in Finland. Using product-level data, we document systematic increases in reference prices equal to the size of the regulated price band and show that many firms submit bids equal to the previous quarter’s reference price in quarterly price auctions. When all firms in a market follow this focal-pricing rule, the reference price increases mechanically by the size of the price band. This behavior is particularly common among six large generic pharmaceutical firms. We investigate these patterns using descriptive evidence, reduced-form analysis, and structural modeling. During non-auction periods, when the reference price is fixed for the remainder of the quarter, we find that it acts as a binding constraint for a substantial share of products priced at the reference price, indicating that the regulation can effectively limit prices. In contrast, during the auctions at the beginning of each quarter, the previous reference price serves as a focal point that can facilitate upward movements in the reference price. Counterfactual simulations show that introducing the €0.50 price band in 2009 rather than in 2017 would have reduced monthly pharmaceutical expenditure by up to €10 million, while reducing the band further to €0.10 in 2017 would have generated additional savings of up to €1.5 million per month.
+The reference price system adopted in the Finnish pharmaceutical market in 2009 initially decreased prices, but after a few years, firms learned to game the system, and prices gradually returned to their pre-reform level. How did firms succeed in raising the price level, and what role did the regulation play in this process? We find that firms learned to use the previous quarter's reference price as a focal point when choosing prices at the beginning of each quarter; these prices determine the reference price for the whole quarter. Six big generic firms were more likely to follow this focal-point pricing rule, and their presence was associated with similar behavior among smaller rivals. According to our results, 65% of products have a profitable downward deviation from the upward pricing path but only 13% deviate. The remaining 52% suggests potential coordination. On the positive side, we show that after the quarterly reference price is determined, it constrains firms from increasing prices higher.
 </details>
 <br>
 
@@ -52,7 +52,7 @@ I study conditions for the existence and uniqueness of equilibrium in a logit mo
 ## Seminar & Conference Presentations
 **Focal Points and Reference Pricing in the Finnish Pharmaceutical Market (Job Market Paper)**
 
-European Commission DG-Comp (Brussels, 2026, invited), Finnish Competition and Consumer Authority (online, 2026, invited), NORIO (Copenhagen, 2026)
+European Commission DG-Comp (Brussels, 2026, invited), Finnish Competition and Consumer Authority (online, 2026, invited), NORIO (Copenhagen, 2026), European Winter Meeting of the Econometric Society (Warsaw, 2026, forthcoming)
 
 **Competition or Collusion? Entry Decisions in the Swedish Pharmaceutical Market**
 
