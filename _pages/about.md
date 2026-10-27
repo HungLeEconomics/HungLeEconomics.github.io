@@ -19,7 +19,6 @@ While price regulation is widely used to decrease prices, it can inadvertently p
 </details>
 <br>
 
-
 ## Working Papers
 **[Competition or Collusion? Entry Decisions in the Swedish Pharmaceutical Market](https://hungleeconomics.github.io/files/Le_Toivanen_CEPRDP21676-1.pdf)** *with [Otto Toivanen](https://aalto-econ.fi/toivanen/)*, CEPR Discussion Paper DP21676 
 [📄 VoxEU Column](https://cepr.org/voxeu/columns/competition-or-collusion-entry-decisions-swedish-pharmaceutical-market)
@@ -40,11 +39,15 @@ I study conditions for the existence and uniqueness of equilibrium in a logit mo
 ## Work in Progress
 **Entry Decisions in the Swedish Pharmaceutical Market** *with Otto Toivanen*
   <summary>Show Abstract</summary>
-We extend our analysis of entry decisions in the Swedish pharmaceutical market to include a wider range of substitution groups.
+We extend our analysis of entry decisions in the Swedish pharmaceutical market to include more substitution groups.
+</details>
+<br>
 **The flow of raw materials in Finland**
   <summary>Show Abstract</summary>
 I study how prices affect the flow of raw materials from production plants to
 manufacturing plants in Finland.
+</details>
+<br>
 
 ## Teaching Assistant ([Evaluations](/teaching/))
 - Math Camp, Ph.D. level: Aug 2024, Aug 2025
@@ -56,6 +59,16 @@ manufacturing plants in Finland.
 - Intermediate Macroeconomics II, B.Sc. level: Mar 2023, Mar 2024, Mar 2025
 
 - Mathematics for Economists, B.Sc. level: Oct 2021
+
+## References
+- Professor Otto Toivanen, Aalto University (main supervisor)
+otto.toivanen@aalto.fi
+
+- Professor Pauli Murto, Aalto University
+pauli.murto@aalto.fi
+
+- Professor Alina Ozhegova, Aalto University
+alina.ozhegova@aalto.fi
 
 ## Seminar & Conference Presentations
 **Focal Points and Reference Pricing in the Finnish Pharmaceutical Market (Job Market Paper)**
