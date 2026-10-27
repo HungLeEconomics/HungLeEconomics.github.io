@@ -32,7 +32,7 @@ Price regulation may have unintended consequences, such as facilitating collusio
 **A Stylized Logit Demand Model with Internal Reference Pricing**
 <details>
   <summary>Show Abstract</summary>
-I extend the standard discrete-choice demand model to incorporate an internal reference price and a copayment structure. Using the Intermediate Value Theorem, I prove the existence of an equilibrium in a two‑product market. I also show that the equilibrium is unique under additional restrictions: the two firms must be sufficiently different so that their best‑response functions cross once and do not overlap over an interval. I then extend the existence result to an n-product market using an aggregative‑game approach. The aim of this paper is twofold.
+I extend the standard discrete-choice demand model to incorporate an internal reference price and a copayment structure. Using the Intermediate Value Theorem, I prove the existence of an equilibrium in a two‑product market. I also show that the equilibrium is unique under additional restrictions: the two firms must be sufficiently different so that their best‑response functions cross once and do not overlap over an interval. I then extend the existence result to an n-product market using an aggregative‑game approach. The aim of this paper is twofold. First, I enrich the theory of logit demand models by introducing a stylized model that incorporates price regulation. Second, by establishing equilibrium existence and conditions for uniqueness, my model provides a theoretical foundation for empirical studies of pharmaceutical markets with internal reference pricing.
 </details>
 <br>
 
@@ -40,14 +40,13 @@ I extend the standard discrete-choice demand model to incorporate an internal re
 **Entry Decisions in the Swedish Pharmaceutical Market** *with Otto Toivanen*
 <details>
   <summary>Show Abstract</summary>
-We extend our analysis of entry decisions in the Swedish pharmaceutical market to include more substitution groups.
+We extend our analysis of the Swedish pharmaceutical market to study collusion in entry decisions across a broader set of markets beyond the two we have analyzed. 
 </details>
 <br>
 **The flow of raw materials in Finland**
 <details>
   <summary>Show Abstract</summary>
-I study how prices affect the flow of raw materials from production plants to
-manufacturing plants in Finland.
+I construct a structural model to analyze how prices affect the flows of raw materials from production plants to manufacturing plants. Because transportation costs create geographically differentiated markets, firms could strategically set prices depending on the market power they have in a region.
 </details>
 <br>
 
@@ -63,11 +62,17 @@ manufacturing plants in Finland.
 - Mathematics for Economists, B.Sc. level: Oct 2021
 
 ## References
-- Professor Otto Toivanen, Aalto University (main supervisor) (Email: otto.toivanen@aalto.fi)
+- Professor Otto Toivanen, Aalto University (Thesis Supervisor) 
 
-- Professor Pauli Murto, Aalto University (Email: pauli.murto@aalto.fi)
+otto.toivanen@aalto.fi
 
-- Professor Alina Ozhegova, Aalto University (Email: alina.ozhegova@aalto.fi)
+- Professor Pauli Murto, Aalto University 
+
+pauli.murto@aalto.fi
+
+- Professor Alina Ozhegova, Aalto University 
+
+alina.ozhegova@aalto.fi
 
 ## Seminar & Conference Presentations
 **Focal Points and Reference Pricing in the Finnish Pharmaceutical Market (Job Market Paper)**
