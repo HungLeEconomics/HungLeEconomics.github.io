@@ -64,19 +64,36 @@ manufacturing plants in Finland.
 
 ## References
 - Professor Otto Toivanen, Aalto University (main supervisor)
+
 otto.toivanen@aalto.fi
 
 - Professor Pauli Murto, Aalto University
+
 pauli.murto@aalto.fi
 
 - Professor Alina Ozhegova, Aalto University
+
 alina.ozhegova@aalto.fi
 
 ## Seminar & Conference Presentations
 **Focal Points and Reference Pricing in the Finnish Pharmaceutical Market (Job Market Paper)**
 
-European Commission DG-Comp (Brussels, 2026, invited), Finnish Competition and Consumer Authority (online, 2026, invited), NORIO (Copenhagen, 2026), European Winter Meeting of the Econometric Society (Warsaw, 2026, forthcoming)
+European Commission DG-Comp (Brussels, 2026, invited seminar)
+
+Finnish Competition and Consumer Authority (online, 2026, invited seminar)
+
+Nordic workshop on Industrial Organization NORIO (Copenhagen, 2026, workshop)
+
+European Winter Meeting of the Econometric Society (Warsaw, 2026, conference, upcoming)
 
 **Competition or Collusion? Entry Decisions in the Swedish Pharmaceutical Market**
 
-European Commission DG-Comp (Brussels, 2026, invited), CEPR Health Economics (Toulouse, 2026), EARIE (Mannheim, 2026), CRESSE (Kos, 2026), Swedish Competition and Consumer Authority (online, 2026, invited)
+European Commission DG-Comp (Brussels, 2026, invited seminar)
+
+CEPR Health Economics Conference (Toulouse, 2026, conference)
+
+European Association for Research in Industrial Economics EARIE (Mannheim, 2026, conference)
+
+Competition and Regulation European Summer School and Conference CRESSE (Kos, 2026, conference)
+
+Swedish Competition and Consumer Authority (online, 2026, invited seminar, upcoming)
