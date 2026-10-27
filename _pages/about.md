@@ -38,11 +38,13 @@ I study conditions for the existence and uniqueness of equilibrium in a logit mo
 
 ## Work in Progress
 **Entry Decisions in the Swedish Pharmaceutical Market** *with Otto Toivanen*
+<details>
   <summary>Show Abstract</summary>
 We extend our analysis of entry decisions in the Swedish pharmaceutical market to include more substitution groups.
 </details>
 <br>
 **The flow of raw materials in Finland**
+<details>
   <summary>Show Abstract</summary>
 I study how prices affect the flow of raw materials from production plants to
 manufacturing plants in Finland.
