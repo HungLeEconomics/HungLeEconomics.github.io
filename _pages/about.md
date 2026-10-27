@@ -32,7 +32,7 @@ Price regulation may have unintended consequences, such as facilitating collusio
 **A Stylized Logit Demand Model with Internal Reference Pricing**
 <details>
   <summary>Show Abstract</summary>
-I study conditions for the existence and uniqueness of equilibrium in a logit model that incorporates an internal reference price and a copayment structure. Using the Intermediate Value Theorem, I prove equilibrium existence in a two‑product market and show that the equilibrium is unique under additional restrictions: the two firms must be sufficiently different so that their best‑response functions cross but do not overlap over an interval. I then extend the existence result to an n-product market with an aggregative‑game approach.
+I extend the standard discrete-choice demand model to incorporate an internal reference price and a copayment structure. Using the Intermediate Value Theorem, I prove the existence of an equilibrium in a two‑product market. I also show that the equilibrium is unique under additional restrictions: the two firms must be sufficiently different so that their best‑response functions cross once and do not overlap over an interval. I then extend the existence result to an n-product market using an aggregative‑game approach. The aim of this paper is twofold.
 </details>
 <br>
 

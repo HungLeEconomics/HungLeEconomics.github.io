@@ -24,4 +24,4 @@ Summary:
 - It was really useful to go through the quizzes together!
 - I felt like the coursework was not very related to the quizzes, only the exam.
 
-[📄 TA Evaluations](https://hungleeconomics.github.io/files/Principles_2025_TA_evaluations.pdf)
+[📄 Original Scans](https://hungleeconomics.github.io/files/Principles_2025_TA_evaluations.pdf)

@@ -30,4 +30,4 @@ Summary:
 - Overall good! Some things could be explained more, but perhaps other people already know more about them.
 - Maybe more time for solving the problem sets or a time allotment for lunch
 
-[📄 TA Evaluations](https://hungleeconomics.github.io/files/Math_Camp_2025_TA_evaluations.pdf)
+[📄 Original Scans](https://hungleeconomics.github.io/files/Math_Camp_2025_TA_evaluations.pdf)
