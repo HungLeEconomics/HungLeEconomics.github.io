@@ -15,7 +15,7 @@ I am a PhD candidate in Economics at Aalto University and [Helsinki GSE](https:/
 **Reference Pricing as a Focal Point: Evidence from the Finnish Pharmaceutical Market** *with Matias Pousi*
 <details>
   <summary>Show Abstract</summary>
-The reference price system adopted in the Finnish pharmaceutical market in 2009 initially decreased prices, but after a few years, firms learned to game the system, and prices gradually returned to their pre-reform level. How did firms succeed in raising the price level, and what role did the regulation play in this process? We find that firms learned to use the previous quarter's reference price as a focal point when choosing prices at the beginning of each quarter; these prices determine the reference price for the whole quarter. Six big generic firms were more likely to follow this focal-point pricing rule, and their presence was associated with similar behavior among smaller rivals. According to our results, 65% of products have a profitable downward deviation from the upward pricing path but only 13% deviate. The remaining 52% suggests potential coordination. On the positive side, we show that after the quarterly reference price is determined, it constrains firms from increasing prices higher.
+While price regulation is widely used to decrease prices, it can inadvertently provide firms with a focal point for coordination. The reference price system adopted in the Finnish pharmaceutical market in 2009 initially resulted in lower prices, but after a few years, prices gradually returned to their pre-reform level. How did firms succeed in raising prices, and what role did the regulation play in this process? We find that firms learned to use the previous quarter’s reference price as a focal point when choosing prices at the beginning of each quarter. This pattern led to price increases from quarter to quarter. Six big generic firms were more likely to use focal-point pricing, and their presence was associated with similar behavior among smaller rivals. According to our structural model, 65% of products had a profitable downward deviation from the upward pricing path but only 13% deviated. The remaining 52% suggests potential tacit coordination. On the positive side, we show that after the quarterly reference price was fixed at the beginning of the quarter, it constrained firms from increasing prices higher.
 </details>
 <br>
 
@@ -37,6 +37,14 @@ I study conditions for the existence and uniqueness of equilibrium in a logit mo
 </details>
 <br>
 
+## Work in Progress
+**Entry Decisions in the Swedish Pharmaceutical Market** *with Otto Toivanen*
+  <summary>Show Abstract</summary>
+We extend our analysis of entry decisions in the Swedish pharmaceutical market to include a wider range of substitution groups.
+**The flow of raw materials in Finland**
+  <summary>Show Abstract</summary>
+I study how prices affect the flow of raw materials from production plants to
+manufacturing plants in Finland.
 
 ## Teaching Assistant ([Evaluations](/teaching/))
 - Math Camp, Ph.D. level: Aug 2024, Aug 2025
