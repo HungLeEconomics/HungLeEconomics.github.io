@@ -17,6 +17,7 @@ I am a PhD candidate in Economics at Aalto University and [Helsinki GSE](https:/
   <summary>Show Abstract</summary>
 While price regulation is widely used to decrease prices, it can inadvertently provide firms with a focal point for coordination. The reference price system adopted in the Finnish pharmaceutical market in 2009 initially resulted in lower prices, but after a few years, prices gradually returned to their pre-reform level. How did firms succeed in raising prices, and what role did the regulation play in this process? We find that firms learned to use the previous quarter’s reference price as a focal point when choosing prices at the beginning of each quarter. This pattern led to price increases from quarter to quarter. Six big generic firms were more likely to use focal-point pricing, and their presence was associated with similar behavior among smaller rivals. According to our structural model, 65% of products had a profitable downward deviation from the upward pricing path but only 13% deviated. The remaining 52% suggests potential tacit coordination. On the positive side, we show that after the quarterly reference price was fixed at the beginning of the quarter, it constrained firms from increasing prices higher.
 </details>
+[📄 Paper](https://hungleeconomics.github.io/files/Hung_Le_JMP.pdf)
 <br>
 
 ## Working Papers
