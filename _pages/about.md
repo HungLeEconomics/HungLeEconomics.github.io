@@ -63,37 +63,29 @@ manufacturing plants in Finland.
 - Mathematics for Economists, B.Sc. level: Oct 2021
 
 ## References
-- Professor Otto Toivanen, Aalto University (main supervisor)
+- Professor Otto Toivanen, Aalto University (main supervisor) (Email: otto.toivanen@aalto.fi)
 
-otto.toivanen@aalto.fi
+- Professor Pauli Murto, Aalto University (Email: pauli.murto@aalto.fi)
 
-- Professor Pauli Murto, Aalto University
-
-pauli.murto@aalto.fi
-
-- Professor Alina Ozhegova, Aalto University
-
-alina.ozhegova@aalto.fi
+- Professor Alina Ozhegova, Aalto University (Email: alina.ozhegova@aalto.fi)
 
 ## Seminar & Conference Presentations
 **Focal Points and Reference Pricing in the Finnish Pharmaceutical Market (Job Market Paper)**
+- European Commission DG-Comp (Brussels, 2026, invited seminar)
 
-European Commission DG-Comp (Brussels, 2026, invited seminar)
+- Finnish Competition and Consumer Authority (online, 2026, invited seminar)
 
-Finnish Competition and Consumer Authority (online, 2026, invited seminar)
+- Nordic workshop on Industrial Organization NORIO (Copenhagen, 2026, workshop)
 
-Nordic workshop on Industrial Organization NORIO (Copenhagen, 2026, workshop)
-
-European Winter Meeting of the Econometric Society (Warsaw, 2026, conference, upcoming)
+- European Winter Meeting of the Econometric Society (Warsaw, 2026, conference, upcoming)
 
 **Competition or Collusion? Entry Decisions in the Swedish Pharmaceutical Market**
+- European Commission DG-Comp (Brussels, 2026, invited seminar)
 
-European Commission DG-Comp (Brussels, 2026, invited seminar)
+- CEPR Health Economics Conference (Toulouse, 2026, conference)
 
-CEPR Health Economics Conference (Toulouse, 2026, conference)
+- European Association for Research in Industrial Economics EARIE (Mannheim, 2026, conference)
 
-European Association for Research in Industrial Economics EARIE (Mannheim, 2026, conference)
+- Competition and Regulation European Summer School and Conference CRESSE (Kos, 2026, conference)
 
-Competition and Regulation European Summer School and Conference CRESSE (Kos, 2026, conference)
-
-Swedish Competition and Consumer Authority (online, 2026, invited seminar, upcoming)
+- Swedish Competition and Consumer Authority (online, 2026, invited seminar, upcoming)
