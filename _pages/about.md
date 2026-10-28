@@ -37,7 +37,7 @@ I extend the standard discrete-choice demand model to incorporate an internal re
 </details>
 <br>
 
-## Work in Progress
+## Works in Progress
 **Entry Decisions in the Swedish Pharmaceutical Market** *with Otto Toivanen*
 <details>
   <summary>Show Abstract</summary>
