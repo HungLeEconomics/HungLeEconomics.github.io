@@ -15,7 +15,7 @@ I am a PhD candidate in Economics at Aalto University and [Helsinki GSE](https:/
 **[Reference Pricing as a Focal Point: Evidence from the Finnish Pharmaceutical Market](https://hungleeconomics.github.io/files/Hung_Le_JMP.pdf)** *with Matias Pousi*
 <details>
   <summary>Show Abstract</summary>
-While price regulation is widely used to decrease prices, it can inadvertently provide firms with a focal point for coordination. The reference price system adopted in the Finnish pharmaceutical market in 2009 initially resulted in lower prices, but after a few years, prices gradually returned to their pre-reform level. How did firms succeed in raising prices, and what role did the regulation play in this process? We find that firms learned to use the previous quarter’s reference price as a focal point when choosing prices at the beginning of each quarter. This pattern led to price increases from quarter to quarter. Six big generic firms were more likely to use focal-point pricing, and their presence was associated with similar behavior among smaller rivals. According to our structural model, 65% of products had a profitable downward deviation from the upward pricing path but only 13% deviated. The remaining 52% suggests potential tacit coordination. On the positive side, we show that after the quarterly reference price was fixed at the beginning of the quarter, it constrained firms from increasing prices higher.
+While price regulation is widely used to decrease prices, it can inadvertently provide firms with a focal point for coordination. The reference price system adopted in the Finnish pharmaceutical market in 2009 initially resulted in lower prices, but after a few years, prices gradually returned to their pre-reform level. How did firms succeed in raising prices, and what role did the regulation play in this process? We find that firms learned to use the previous quarter's reference price as a focal point when choosing prices at the beginning of each quarter. This pattern led to price increases from quarter to quarter. Six big generic firms were more likely to use focal-point pricing, and their presence was associated with similar behavior among smaller rivals. According to our structural model, 65% of products had a profitable downward deviation from the upward pricing path but only 13% deviated. The remaining 52% suggests potential tacit coordination. On the positive side, we show that after the quarterly reference price was fixed at the beginning of the quarter, it constrained firms from increasing prices higher. Furthermore, a regulatory change in 2017 increased price competition by weakening firms' incentives to use focal-point pricing.
 </details>
 [📄 Paper](https://hungleeconomics.github.io/files/Hung_Le_JMP.pdf)
 <br>
@@ -44,7 +44,7 @@ I extend the standard discrete-choice demand model to incorporate an internal re
 We extend our analysis of the Swedish pharmaceutical market to study collusion in entry decisions across a broader set of markets beyond the two we have analyzed. 
 </details>
 <br>
-**The flow of raw materials in Finland**
+**The Flow of Raw Materials in Finland**
 <details>
   <summary>Show Abstract</summary>
 I construct a structural model to analyze how prices affect the flows of raw materials from production plants to manufacturing plants. Because transportation costs create geographically differentiated markets, firms could strategically set prices depending on the market power they have in a region.
