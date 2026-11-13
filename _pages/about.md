@@ -61,7 +61,7 @@ I construct a structural model to analyze how prices affect the flows of raw mat
 - Mathematics for Economists, B.Sc. level: Oct 2021
 
 ## References
-- Professor Otto Toivanen, Aalto University (Thesis Supervisor) 
+- Professor Otto Toivanen, Aalto University (Main Supervisor) 
 
 otto.toivanen@aalto.fi
 
