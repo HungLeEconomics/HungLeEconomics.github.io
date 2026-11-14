@@ -92,4 +92,4 @@ alina.ozhegova@aalto.fi
 
 - Competition and Regulation European Summer School and Conference CRESSE (Kos, 2026, conference)
 
-- Swedish Competition and Consumer Authority (online, 2026, invited seminar, upcoming)
+- Swedish Competition Authority (online, 2026, invited seminar, upcoming)
