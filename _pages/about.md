@@ -36,16 +36,16 @@ There is a growing literature applying logit demand models to pharmaceutical mar
 <br>
 
 ## Works in Progress
-**Entry Decisions in the Swedish Pharmaceutical Market** *with Otto Toivanen*
-<details>
-  <summary>Show Abstract</summary>
-We extend our analysis of the Swedish pharmaceutical market to study collusion in entry decisions across a broader set of markets beyond the two we have analyzed. 
-</details>
-<br>
 **The Flow of Raw Materials in Finland**
 <details>
   <summary>Show Abstract</summary>
 I construct a structural model to analyze how prices affect the flows of raw materials from production plants to manufacturing plants. Because transportation costs create geographically differentiated markets, firms could strategically set prices depending on the market power they have in a region.
+</details>
+<br>
+**Entry Decisions in the Swedish Pharmaceutical Market** *with Otto Toivanen*
+<details>
+  <summary>Show Abstract</summary>
+We extend our analysis of the Swedish pharmaceutical market to study collusion in entry decisions across a broader set of markets beyond the two we have analyzed. 
 </details>
 <br>
 
@@ -72,6 +72,9 @@ pauli.murto@aalto.fi
 - Professor Alina Ozhegova, Aalto University 
 
 alina.ozhegova@aalto.fi
+
+## Research Visit
+- Toulouse School of Economics, 2026
 
 ## Seminar & Conference Presentations
 **Focal Points and Reference Pricing in the Finnish Pharmaceutical Market (Job Market Paper)**
